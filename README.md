@@ -80,7 +80,7 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 <h2> 💭 Quote of the day</h2>
 <details open>
 <summary>See quote</summary>
-  <p align="Center">
+  <p alig="Center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes card">
     </a>
@@ -90,7 +90,7 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 <h2> 🥸 Joke of the day</h2>
 <details open>
 <summary>See joke</summary>
-  <p align="Center">
+  <p alig="Center">
     <a href="https://github.com/ABSphreak/readme-jokes">
         <img src="https://readme-jokes.vercel.app/api?&theme=dracula" alt="Jokes Card" />
     </a>
@@ -101,7 +101,7 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 
 <details open>
   <summary><b>🔥 Streak Stats </b></summary>
-<p align="center">
+<p alig="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" width="fill" alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com?user=OmarKhalil401&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </a>
