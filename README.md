@@ -11,20 +11,19 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;
   <a href="https://twitter.com/Omar_Khalil401"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;
   <a href="https://www.linkedin.com/in/omareismail/" alt="My Linkedin"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Z0ktxFz.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;
   <a href="https://dev.to/omarkhalil401"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;
   <a href="https://hub.docker.com/u/omarkhalil401"><img width="32px" alt="Dev.to" title="Docker" src="https://i.imgur.com/4oiug6K.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;
   <a href="https://t.me/Perdisy"><img width="32px" alt="Dev.to" title="Telegram" src="https://i.imgur.com/3RnqE8k.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;
   <a href="https://www.buymeacoffee.com/Omar.khalil"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
+  &#8287;
 <br/>
 
 I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Finished my Amazon AWS re/Start program in 2022 and entered the software developing and Tech field. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into the Cloud and DevOps ☁️, working to enhance my knowledge about Data Structure and Algorithms 🤓.
