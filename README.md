@@ -78,7 +78,7 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 </br>
 
 <h2> 💭 Quote of the day</h2>
-<details open>
+<details>
 <summary>See quote</summary>
   <p alig="Center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
@@ -88,7 +88,7 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 </details>
 
 <h2> 🥸 Joke of the day</h2>
-<details open>
+<details>
 <summary>See joke</summary>
   <p alig="Center">
     <a href="https://github.com/ABSphreak/readme-jokes">
@@ -99,7 +99,7 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 
 <h2> ✨ My Github Streaks and Achivments ✨</h2>
 
-<details open>
+<details>
   <summary><b>🔥 Streak Stats </b></summary>
 <p alig="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -117,6 +117,6 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 
 </details>
 
-<p align="c enter">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&color=%23F75C7E&size=22&duration=4500&center=true&vCenter=true&width=440&height=45&lines=Thank+You+For+Your+Visit!;Check+My+Repos+Below+%F0%9F%91%87"></a>
 </p>
