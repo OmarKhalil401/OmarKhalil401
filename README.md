@@ -80,7 +80,7 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 <h2> 💭 Quote of the day</h2>
 <details open>
 <summary>See quote</summary>
-  <p alig="Center">
+  <p align="Center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes card">
     </a>
@@ -90,7 +90,7 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 <h2> 🥸 Joke of the day</h2>
 <details open>
 <summary>See joke</summary>
-  <p alig="Center">
+  <p align="Center">
     <a href="https://github.com/ABSphreak/readme-jokes">
         <img src="https://readme-jokes.vercel.app/api?&theme=dracula" alt="Jokes Card" />
     </a>
@@ -101,16 +101,19 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 
 <details open>
   <summary><b>🔥 Streak Stats </b></summary>
-<p alig="center">
+<p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" width="fill" alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com?user=OmarKhalil401&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-  </a>&#8287;
+  </a>
+
+
   <img src="https://github-readme-stats.vercel.app/api?username=OmarKhalil401&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula"/>&#8287;
+  
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=omarkhalil401&area=true&hide_border=true&bg_color=44475a&line=ff79c6&point=bd93f9&color=ff79c6&area_color=44475a">
+  <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=omarkhalil401&area=true&hide_border=true&bg_color=44475a&line=ff79c6&point=bd93f9&color=ff79c6&area_color=44475a">
   </a>
 </p>
-<p alig="center">🔥👆Watch me trying to ramp up my streak 👆🔥</p>
+<p align="center">🔥👆Watch me trying to ramp up my streak 👆🔥</p>
 
 </details>
 
