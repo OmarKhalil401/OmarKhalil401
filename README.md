@@ -11,19 +11,20 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/Omar_Khalil401"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
-  &#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/omareismail/" alt="My Linkedin"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Z0ktxFz.png"/></a>
-  &#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/omarkhalil401"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://hub.docker.com/u/omarkhalil401"><img width="32px" alt="Dev.to" title="Docker" src="https://i.imgur.com/4oiug6K.png"></a>
-  &#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://t.me/Perdisy"><img width="32px" alt="Dev.to" title="Telegram" src="https://i.imgur.com/3RnqE8k.png"></a>
-  &#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.buymeacoffee.com/Omar.khalil"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-  &#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+</p>
 <br/>
 
 I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Finished my Amazon AWS re/Start program in 2022 and entered the software developing and Tech field. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into the Cloud and DevOps ☁️, working to enhance my knowledge about Data Structure and Algorithms 🤓.
@@ -50,16 +51,11 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 
 <h2>  💡 Languages & Frameworks:</h2>
   
-  <img width="50px" alt="python" title="Python" src="https://i.imgur.com/62c20tV.png"/>
-  &#8287;
-  <img width="50px" alt="bash" title="BashScript" src="https://i.imgur.com/PNxNCHi.png"/>
-  &#8287;
-  <img width="50px" alt="powershell" title="PowerShell" src="https://i.imgur.com/alPUxEt.png"/>
-  &#8287;
-  <img width="50px" alt="golang" title="GoLang" src="https://i.imgur.com/MShGGxV.png">
-  &#8287;
-  <img width="50px" alt="JSON" title="json" src="https://i.imgur.com/QZOlcc1.png">
-  &#8287;
+  <img width="50px" alt="python" title="Python" src="https://i.imgur.com/62c20tV.png"/>&#8287;
+  <img width="50px" alt="bash" title="BashScript" src="https://i.imgur.com/PNxNCHi.png"/>&#8287;
+  <img width="50px" alt="powershell" title="PowerShell" src="https://i.imgur.com/alPUxEt.png"/>&#8287;
+  <img width="50px" alt="golang" title="GoLang" src="https://i.imgur.com/MShGGxV.png">&#8287;
+  <img width="50px" alt="JSON" title="json" src="https://i.imgur.com/QZOlcc1.png">&#8287;
 
 </br>
 
@@ -84,33 +80,37 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 <h2> 💭 Quote of the day</h2>
 <details open>
 <summary>See quote</summary>
+  <p alig="Center">
     <a href="https://github.com/piyushsuthar/github-readme-quotes">
         <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quotes card">
     </a>
+  </p>
 </details>
 
 <h2> 🥸 Joke of the day</h2>
 <details open>
 <summary>See joke</summary>
+  <p alig="Center">
     <a href="https://github.com/ABSphreak/readme-jokes">
         <img src="https://readme-jokes.vercel.app/api?&theme=dracula" alt="Jokes Card" />
     </a>
+    </p>
 </details>
 
 <h2> ✨ My Github Streaks and Achivments ✨</h2>
+
 <details open>
   <summary><b>🔥 Streak Stats </b></summary>
-<p align="center">
+<p alig="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com?user=OmarKhalil401&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-  </a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=OmarKhalil401&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula"/>
-
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" width="fill" alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com?user=OmarKhalil401&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  </a>&#8287;
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarKhalil401&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula"/>&#8287;
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=omarkhalil401&area=true&hide_border=true&bg_color=44475a&line=ff79c6&point=bd93f9&color=ff79c6&area_color=44475a">
   </a>
 </p>
-<p align="center">🔥👆Watch me trying to ramp up my streak 👆🔥</p>
+<p alig="center">🔥👆Watch me trying to ramp up my streak 👆🔥</p>
 
 </details>
 
