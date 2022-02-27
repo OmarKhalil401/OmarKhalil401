@@ -107,7 +107,7 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
   </a>
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=OmarKhalil401&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula"/>&#8287;
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarKhalil401&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula"/>
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="github activity graph" src="https://activity-graph.herokuapp.com/graph?username=omarkhalil401&area=true&hide_border=true&bg_color=44475a&line=ff79c6&point=bd93f9&color=ff79c6&area_color=44475a">
@@ -117,6 +117,6 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 
 </details>
 
-<p align="center">
+<p align="c enter">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=fira&color=%23F75C7E&size=22&duration=4500&center=true&vCenter=true&width=440&height=45&lines=Thank+You+For+Your+Visit!;Check+My+Repos+Below+%F0%9F%91%87"></a>
 </p>
