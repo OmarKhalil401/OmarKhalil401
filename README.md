@@ -27,7 +27,7 @@
 </p>
 <br/>
 
-I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Finished my Amazon AWS re/Start program in 2022 and entered the software developing and Tech field. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into the Cloud and DevOps ☁️, working to enhance my knowledge about Data Structure and Algorithms 🤓.
+I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Finished my Amazon AWS re/Start program in 2022 and entered the software developing and Tech field. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.   I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into the Cloud and DevOps ☁️, working to enhance my knowledge about Data Structure and Algorithms 🤓.
 <br/>
 
 ## A little More about me  :
