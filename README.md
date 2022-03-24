@@ -34,8 +34,8 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 
 
 - 🛠 &nbsp; I'm currently studying towards my [AWS SysOps Administrator Associate Degree](https://aws.amazon.com/certification/certified-sysops-admin-associate/) On [Udemy](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/).
-- 🚀 &nbsp; I'm on track with learning more about SysOps Admnistration, DevOps and Software Architecture.
-- 💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/omarkhalil401/30min) to talk with me.
+- 🚀 &nbsp; I'm on track with learning more about Containerization, DevOps, and Software Architecture.
+- 💬 &nbsp; let's have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/omarkhalil401/30min) to talk with me.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me on <b title="omarismail401@gmail.com">[Gmail](omarismail401@gmail.com)</b>.
 
