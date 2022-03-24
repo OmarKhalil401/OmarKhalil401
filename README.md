@@ -33,7 +33,7 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 ## A little More about me  :
 
 
-- 🛠 &nbsp; I'm currently studying towards an [AWS Solutions Architect Associate Degree](https://aws.amazon.com/certification/certified-solutions-architect-associate/) On [Udemy](https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/).
+- 🛠 &nbsp; I'm currently studying towards my [AWS SysOps Administrator Associate Degree](https://aws.amazon.com/certification/certified-sysops-admin-associate/) On [Udemy](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/).
 - 🚀 &nbsp; I'm on track with learning more about SysOps Admnistration, DevOps and Software Architecture.
 - 💬 &nbsp;Lets have a Meet or Zoom call, feel free to pick a slot on [Calendly](https://calendly.com/omarkhalil401/30min) to talk with me.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
