@@ -27,10 +27,10 @@
 </p>
 <br/>
 
-I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Finished my Amazon AWS re/Start program in 2022 and entered the software developing and Tech field. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. <br/>  I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into the Cloud and DevOps ☁️, working to enhance my knowledge about Data Structure and Algorithms 🤓.
+I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Finished my Amazon AWS re/Start program in March 2022 and entered the software developing and Tech field. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. <br/> I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into the Cloud and DevOps ☁️, working to enhance my knowledge about Data Structure and Algorithms 🤓.
 <br/>
 
-## A little More about me  :
+## A little More about me :
 
 
 - 🛠 &nbsp; I'm currently studying towards my [AWS SysOps Administrator Associate Degree](https://aws.amazon.com/certification/certified-sysops-admin-associate/) On [Udemy](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/).
