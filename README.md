@@ -101,7 +101,7 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
 
 <details>
   <summary><b>🔥 Streak Stats </b></summary>
-<p align="center">
+<p alig="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="My Streak" src="https://github-readme-streak-stats.herokuapp.com?user=OmarKhalil401&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
   </a>
