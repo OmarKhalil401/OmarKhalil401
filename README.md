@@ -10,8 +10,6 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://youtu.be/dQw4w9WgXcQ"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://twitter.com/Omar_Khalil401"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/omareismail/" alt="My Linkedin"><img width="32px" title="LinkedIn" src="https://i.imgur.com/Z0ktxFz.png"/></a>
