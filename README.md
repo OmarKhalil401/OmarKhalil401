@@ -85,7 +85,7 @@ I'm a graduate in Business Administration 🎓 from Ain-Shams University 🏛 Fi
   </p>
 </details>
 
-<h2> 🥸 Joke of the day</h2>
+<h2> 😂 Joke of the day</h2>
 <details>
 <summary>See joke</summary>
   <p alig="Center">
